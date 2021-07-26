@@ -32,7 +32,7 @@ Now you can start upload and analyse your data! If you are working with bulkRNAs
 __step 6:__ How to manage your R-packages:  
 The easiest way to manage your R-packages is to install them to a dedicated folder for example you could create a folder called "R_libs". Then you can instruct R to install your packages there and load the packages from the dedicated folder:  
 __CRAN-packages:__
-```shell install.packages("devtools",lib="/binfl/lv71395/test_user/R_libs") ```  
+```install.packages("devtools",lib="/binfl/lv71395/test_user/R_libs") ```  
 For some packages it is necessary to also laod dependencies. For example "devtools" needs "usethis" to be loaded  
 ```lapply(c("usethis","devtools"), library,lib.loc = "/binfl/lv71395/test_user/R_libs", character.only = TRUE)```  
 keep an eye on the order: load usethis before devtools.  
@@ -40,7 +40,7 @@ now you can __install from github__ like so:
 ```install_github("satijalab/seurat", ref = "release/4.0.0",lib="/binfl/lv71395/test_user/R_libs")```    
 __Bioconductor-packages:__  
 First install BiocManager and load:  
-```install.packages("BiocManager",lib="/binfl/lv71395/test_user/R_libs")
+```install.packages("BiocManager",lib="/binfl/lv71395/test_user/R_libs")\n
 library(BiocManager, lib.loc = "/binfl/lv71395/test_user/R_libs")```    
  
 
