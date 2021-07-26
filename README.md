@@ -26,8 +26,13 @@ It would be good if you work on the dedicated bioinformatic file storage system.
   <img src="pics/Screenshot_target_dir.png" width="350" alt="accessibility text">
 </p>  
 
-Now you can start upload and analyse your data! If you are working with bulkRNAseq data you can check out [this repository](https://github.com/Mwielscher/RNAseq) for additional help
+Now you can start upload and analyse your data! If you are working with bulkRNAseq data you can check out [this repository](https://github.com/Mwielscher/RNAseq) for additional help.  
+  
+  
+__step 6:__ How to manage your R-packages:  
 
+
+<br/><br/>
 
 ## scRNAseq start notebooks  
 These are Jupyternotebooks for scRNAseq analysis. Comments and more detailed explainations are in the notebooks.  
