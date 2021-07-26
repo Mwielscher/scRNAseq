@@ -19,7 +19,7 @@ __step 4:__ select VSC singularity image, then pick R notebook incase you want t
 __step 4:__ Select your server specifications: run time, RAM memory, CPU (please keep in mind that most processes in R are serial)  
 __step 5:__ set your working directory:  once your server spawns you will get access to your to your home directory on the VSC. The default path looks like so:  
 <p align="center">
-  <img src="pics/Screenshot-home_dir.png" width="350" alt="accessibility text">
+  <img src="pics/Screenshot_home_dir.png" width="350" alt="accessibility text">
 </p>  
 
 
