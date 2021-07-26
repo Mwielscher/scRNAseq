@@ -28,8 +28,9 @@ It would be good if you work on the dedicated bioinformatic file storage system.
 
 Now you can start upload and analyse your data! If you are working with bulkRNAseq data you can check out [this repository](https://github.com/Mwielscher/RNAseq) for additional help.  
   
+  - - -  
   
-__step 6:__ How to manage your R-packages:  
+__step 6 How to manage your R-packages:__  
 The easiest way to manage your R-packages is to install them to a dedicated folder for example you could create a folder called "R_libs". Then you can instruct R to install your packages there and load the packages from the dedicated folder:  
 __CRAN-packages:__  
 ```install.packages("devtools",lib="/binfl/lv71395/test_user/R_libs") ```  
@@ -45,9 +46,11 @@ First install BiocManager and load:
 Then install:  
 ```BiocManager::install("DESeq2",lib="/binfl/lv71395/test_user/R_libs")```
 <br/><br/>
-Load all packages at once  
+Load multiple packages at once  
 ```my.libs=c("devtools","usethis","BiocManager","Seurat","DESeq2")```  
 ```lapply(my.libs, library,lib.loc = "/binfl/lv71395/test_user/R_libs", character.only = TRUE)```  
+- - -  
+
 <br/><br/>
   
 
