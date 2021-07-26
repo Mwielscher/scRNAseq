@@ -42,7 +42,7 @@ __Bioconductor-packages:__
 First install BiocManager and load: 
 ```install.packages("BiocManager",lib="/binfl/lv71395/test_user/R_libs")```  
 ```library(BiocManager, lib.loc = "/binfl/lv71395/test_user/R_libs")```  
-Then install:
+Then install:  
 ```BiocManager::install("DESeq2",lib="/binfl/lv71395/test_user/R_libs")```
 <br/><br/>
 Load all packages at once  
