@@ -14,7 +14,8 @@ __step 4:__ select VSC singularity image, then pick R notebook incase you want t
 
 <p align="center">
   <img src="pics/Screenshot_start_page.png" width="650" alt="accessibility text">
-</p>
+</p>  
+
 __step 4:__ Select your server specifications: run time, CPU, RAM memory
 
 
