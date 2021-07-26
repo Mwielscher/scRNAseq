@@ -40,7 +40,7 @@ keep an eye on the order: load usethis before devtools.
 now you can __install from github__ like so:  
 ```install_github("satijalab/seurat", ref = "release/4.0.0",lib="/binfl/lv71395/test_user/R_libs")```    
 __Bioconductor-packages:__  
-First install BiocManager and load: 
+First install BiocManager and load:  
 ```install.packages("BiocManager",lib="/binfl/lv71395/test_user/R_libs")```  
 ```library(BiocManager, lib.loc = "/binfl/lv71395/test_user/R_libs")```  
 Then install:  
