@@ -30,6 +30,10 @@ Now you can start upload and analyse your data! If you are working with bulkRNAs
   
   
 __step 6:__ How to manage your R-packages:  
+The easiest way to manage your R-packages is to install them to a dedicated folder for example you could create a folder called "R_libs". Then you can instruct R to install your packages there and load the packages from the dedicated folder:  
+
+''' install.packages("devtools",lib="/binfl/lv71395/test_user/R_libs") '''  
+
 
 
 <br/><br/>
