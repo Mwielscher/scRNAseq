@@ -13,8 +13,7 @@ __step 3:__ To start a Jupyternotebook go to here [https://vsc.ac.at/jupyterhub/
 __step 4:__ select VSC singularity image, then pick R notebook incase you want to use R. Basic/Data scienece/etc. notebooks are for python programming. You should look at screen that looks similar to that:  
 
 <p align="center">
-  <img src="pics/Screenshot_start_page.png" width="350" title="hover text">
-  <img src="pics/Screenshot_start_page.png" width="350" alt="accessibility text">
+  <img src="pics/Screenshot_start_page.png" width="450" alt="accessibility text">
 </p>
 
 
