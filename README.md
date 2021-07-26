@@ -18,9 +18,15 @@ __step 4:__ select VSC singularity image, then pick R notebook incase you want t
 
 __step 4:__ Select your server specifications: run time, RAM memory, CPU (please keep in mind that most processes in R are serial)  
 __step 5:__ set your working directory:  once your server spawns you will get access to your to your home directory on the VSC. The default path looks like so:  
-<p align="center">
+<p align="left">
   <img src="pics/Screenshot_home_dir.png" width="350" alt="accessibility text">
 </p>  
+It would be good if you work on the dedicated bioinformatic file storage system. For this you have to hit the folder button and change the path until it looks like so:
+<p align="left">
+  <img src="pics/Screenshot_target_dir.png" width="350" alt="accessibility text">
+</p>  
+
+
 
 
 ## scRNAseq start notebooks  
