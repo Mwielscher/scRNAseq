@@ -32,7 +32,7 @@ Now you can start upload and analyse your data! If you are working with bulkRNAs
 __step 6:__ How to manage your R-packages:  
 The easiest way to manage your R-packages is to install them to a dedicated folder for example you could create a folder called "R_libs". Then you can instruct R to install your packages there and load the packages from the dedicated folder:  
 __CRAN-packages:__
-```Rscript install.packages("devtools",lib="/binfl/lv71395/test_user/R_libs") ```  
+```{r} install.packages("devtools",lib="/binfl/lv71395/test_user/R_libs") ```  
 For some packages it is necessary to also laod dependencies. For example "devtools" needs "usethis" to be loaded  
 ```lapply(c("usethis","devtools"), library,lib.loc = "/binfl/lv71395/test_user/R_libs", character.only = TRUE)```  
 keep an eye on the order: load usethis before devtools.  
