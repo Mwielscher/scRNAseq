@@ -10,7 +10,7 @@ This repository gives detailed instructions on how to use Jupyterhub on the [Vie
 __step 1:__  if you affliated with the [Department of Dermatology](https://www.meduniwien.ac.at/web/en/about-us/organisation/university-departments/department-of-dermatology/?L=3) of the Medical University of Vienna and you want to use Jupyterhub via the VSC please do contact me: matthias.wielscher@meduniwien.ac.at. I will need your username and a cellphone number preferentially registered at an Austrian moblie network provider.  
 __step 2:__ I will create a user on the VSC for you and we will have a brief meeting/call with a technical introduction and I will give an overview of code of conduct for using the VSC resources. Additionally, I strongly recomend attending [introductory classes](https://vsc.ac.at/research/vsc-research-center/vsc-school-seminar/) provided by the VSC team.   
 __step 3:__ To start a Jupyternotebook go to here [https://vsc.ac.at/jupyterhub/hub/spawn](https://vsc.ac.at/jupyterhub/hub/spawn). You will be asked for your username a password, which will be provided by me. Then you will be asked to perform a 2-factor authentification with the cell phone number you provided in step1.  
-__step 4:__ select VSC singularity image, then pick R notebook incase you want to use R. Basic/Data scienece/etc. notebooks are for python programming. You should look at screen that looks similar to that (the example below shows the image dedicated to Seurat v4.1:  
+__step 4:__ select VSC singularity image, then pick R notebook incase you want to use R. Basic/Data scienece/etc. notebooks are for python programming. You should look at screen that looks similar to that (the example below shows the image dedicated to Seurat v4.1):  
 
 
 <p align="center">
