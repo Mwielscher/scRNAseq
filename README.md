@@ -15,6 +15,12 @@ __step 4:__ select VSC singularity image, then pick R notebook incase you want t
 <p align="center">
   <img src="pics/Screenshot_start_page.png" width="650" alt="accessibility text">
 </p>  
+__SEURAT_image:__ in case you want to use Seurat version 4.1 you can use this image. 
+
+<p align="center">
+  <img src="pics/screen_shot_SEURAT_image.png" width="650" alt="accessibility text">
+</p>  
+
 
 __step 4:__ Select your server specifications: run time, RAM memory, CPU (please keep in mind that most processes in R are serial)  
 __step 5:__ set your working directory:  once your server spawns you will get access to your to your home directory on the VSC. The default path looks like so:  
