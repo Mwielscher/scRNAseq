@@ -1,6 +1,6 @@
-#this script accompanies the publication "The transcriptional profile of keloidal Schwann cells"
-#code was written by Dr. Martin Direder
-#martin.direder@meduniwien.ac.at
+# this script accompanies the publication "The transcriptional profile of keloidal Schwann cells"
+# code was written by Dr. Martin Direder
+# martin.direder@meduniwien.ac.at
 
 setwd(dir ="..")
 
