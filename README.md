@@ -4,7 +4,7 @@
 3. [scRNAseq start notebooks](#scRNAseq-start-notebooks)
 
 ## About this Repository  
-This repository gives detailed instructions on how to use Jupyterhub on the [Vienna scientific cluster](https://vsc.ac.at/home/) with main focus on R applications. There are also two jupyternotebooks to get you started with your scRNAseq analysis.  
+This repository gives detailed instructions on how to use Jupyterhub on the [Vienna scientific cluster](https://vsc.ac.at/home/) with main focus on R applications. There are also two jupyternotebooks to get you started with your scRNAseq analysis. The content of the folder keloidal_Schwann is associated to [this publication](https://www.medrxiv.org/content/10.1101/2022.03.16.22272464v1) 
 <br/><br/>
 ## Instructions to use the Jupyterhub on the VSC  
 __step 1:__  if you affliated with the [Department of Dermatology](https://www.meduniwien.ac.at/web/en/about-us/organisation/university-departments/department-of-dermatology/?L=3) of the Medical University of Vienna and you want to use Jupyterhub via the VSC please do contact me: matthias.wielscher@meduniwien.ac.at. I will need your username and a cellphone number preferentially registered at an Austrian moblie network provider.  
